@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnboardingCompose</string>
+    <string name="lbl_btn_start">Get Started</string>
+</resources>
